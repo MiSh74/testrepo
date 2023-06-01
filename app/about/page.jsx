@@ -4,7 +4,7 @@ import React from 'react'
 const About = () => {
   return (
     <div>About
-        <Link href="/test" replace></Link>
+        <Link href="/test" replace>test</Link>
     </div>
   )
 }
